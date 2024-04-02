@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.track-item > div {
+  @apply bg-white p-4 rounded shadow;
+}
